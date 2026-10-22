@@ -1,0 +1,5 @@
+Requisitos iniciais do AgroGestão:
+- Cadastro de propriedades rurais
+- Cadastro de atividades agrícolas
+- Controle de insumos
+- Relatório de produtividade
