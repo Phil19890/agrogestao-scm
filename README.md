@@ -1,5 +1,7 @@
-# agrogestao-scm
+﻿# agrogestao-scm
+
 Projeto acadêmico para prática de Gerenciamento de Configuração de Software utilizando Git e GitHub.
 
-## Atualiza��o do Projeto
-Artefato atualizado durante a pr�tica de Gerenciamento de Configura��o de Software.
+## Atualização do Projeto
+
+Artefato atualizado durante a prática de Gerenciamento de Configuração de Software.
